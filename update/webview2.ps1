@@ -98,4 +98,4 @@ Set-Content -Path "bucket\webview2.json" -Value $($Manifest | ConvertTo-Json -De
 
 git.exe add "bucket\webview2.json"
 git.exe commit -m "$Version"
-git push origin main
+git.exe push origin main
