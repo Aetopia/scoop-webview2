@@ -5,19 +5,19 @@
     "description":  "Provides a fully portable install of Microsoft Edge WebView2.",
     "architecture":  {
                          "64bit":  {
-                                       "hash":  "E97262CD4CDCC2EDD404C5E7EA9E3F94C3CA506299F5A2E35CC9F40884F4811E",
-                                       "url":  "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9087057-bc1f-4f47-b829-4be6e56265f3/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.82.x64.cab#/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.82.x64.7z"
+                                       "hash":  "D19C7B5F51FAFD9EF97B8BE490010323A8475B710906D9937713728E62B45BAB",
+                                       "url":  "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9d7fb9a5-5296-47f6-b3e7-eb9ebfc06ca2/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.97.x64.cab#/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.97.x64.7z"
                                    },
                          "32bit":  {
-                                       "hash":  "4CA81E840B8E190A9FAB1B631D8E5908B88379DD6C6F001F63FB66CE49E43619",
-                                       "url":  "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/16ed7b22-5457-48e8-b220-29502235a6f2/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.82.x86.cab#/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.82.x86.7z"
+                                       "hash":  "B73EA53108298EB1C21C755982ED1D837A884B04D1B38309A9C3C4C56EC146C9",
+                                       "url":  "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5305ffd7-f542-4fcc-9ee6-da4ec8263ccb/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.97.x86.cab#/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.97.x86.7z"
                                    },
                          "arm64":  {
-                                       "hash":  "CCF8041E671BA7A07A8560A1B7977B6F9F34ECFA9FECCFFADC2014D5907F1ADE",
-                                       "url":  "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/06df434c-67a3-44b0-8ce6-1e458a903e43/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.82.arm64.cab#/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.82.arm64.7z"
+                                       "hash":  "428F024ECA6AC84F83639288ADAEF30BB3ED3558ACEF1181CEFBDF0233C56CAC",
+                                       "url":  "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5272f1e-3d14-46bf-9dbf-4932067daa7d/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.97.arm64.cab#/Microsoft.WebView2.FixedVersionRuntime.145.0.3800.97.arm64.7z"
                                    }
                      },
-    "version":  "145.0.3800.82",
+    "version":  "145.0.3800.97",
     "notes":  [
                   "To troubleshoot any issues, visit:",
                   "https://github.com/Aetopia/scoop-webview2#troubleshooting"
